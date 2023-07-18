@@ -11,8 +11,9 @@ If you got here by scanning the QR code at ISMB/BOSC 2023, please refer to the l
 - Regulatory omics pipeline [genomeNLP](https://github.com/tyronechen/genomenlp)
   - Manuscript: [Applied case study on bacteria](https://doi.org/10.1101/2023.05.31.542682)
   - Documentation: [genomeNLP on readthedocs](https://genomenlp.readthedocs.io/en/latest/)
-- [Lab website](https://bioinformaticslab.erc.monash.edu/)
-- Contact us directly at [tyrone.chen@monash.edu](mailto:tyrone.chen@monash.edu) and [sonika.tyagi@rmit.edu.au](mailto:sonika.tyagi@rmit.edu.au)
+- Contact us:
+  - [Lab website](https://bioinformaticslab.erc.monash.edu/)
+  - [tyrone.chen@monash.edu](mailto:tyrone.chen@monash.edu) and [sonika.tyagi@rmit.edu.au](mailto:sonika.tyagi@rmit.edu.au)
 
 <!--
 **tyronechen/tyronechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
