@@ -1,4 +1,4 @@
-### ISMB/BOSC 2023
+### Information for ISMB/BOSC 2023 participants
 
 If you got here by scanning the QR code at ISMB/BOSC 2023, please refer to the links below for more information:
 
