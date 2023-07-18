@@ -2,6 +2,9 @@
 
 If you got here by scanning the QR code at ISMB/BOSC 2023, please refer to the links below for more information:
 
+- ISMB/BOSC 2023
+  - [Talk link](https://iscb.junolive.co/ismb2023/live/breakouts/ISMBECCB2023_1099)
+  - [Poster link](https://iscb.junolive.co/ismb2023/live/exhibitor/ismbeccb2023_poster_1099)
 - Functional omics pipeline [multiomics](https://github.com/tyronechen/SARS-CoV-2)
   - Manuscript: [Applied case study on COVID-19](https://doi.org/10.1093/bib/bbab185)
   - Manuscript: [Pipeline technical notes](https://doi.org/10.12688/f1000research.53453.1)
